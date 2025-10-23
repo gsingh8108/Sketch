@@ -1,0 +1,69 @@
+body{
+
+    background-color: yellow;
+
+}
+
+h1{
+
+    background-color: white;
+
+}
+
+#show_sketch{
+
+    float: right;
+
+}
+
+#sketch{
+
+    color: red;
+    font-family: "Nunito Sans";
+    font-size: 30px;
+    font-weight: bold;
+
+}
+
+#confidence{
+
+    color: red;
+    font-family: "Nunito Sans";
+    font-size: 30px;
+    font-weight: bold;
+
+}
+
+#instruction{
+
+    color: red;
+    font-family: "Nunito Sans";
+    font-size: 30px;
+    font-weight: bold;
+
+}
+
+#score{
+
+    color: red;
+    font-family: "Nunito Sans";
+    font-size: 30px;
+    font-weight: bold;
+
+}
+
+#timer{
+
+    color: red;
+    font-family: "Nunito Sans";
+    font-size: 30px;
+    font-weight: bold;
+    float:right;
+
+}
+
+#clear_canvas{
+
+    margin-bottom : 40px
+
+}
